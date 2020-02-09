@@ -158,7 +158,14 @@ request_handling.o: /home/jan/projects/demo_node/main/request_handling.c \
  /home/jan/esp/esp-mdf/components/mcommon/include/mdf_mem.h \
  /home/jan/esp/esp-mdf/components/mcommon/include/mdf_event_loop.h \
  /home/jan/esp/esp-mdf/components/mcommon/include/mdf_info_store.h \
- /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h
+ /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h \
+ /home/jan/esp/esp-mdf/esp-idf/components/driver/include/driver/ledc.h \
+ /home/jan/esp/esp-mdf/esp-idf/components/driver/include/driver/periph_ctrl.h \
+ /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
+ /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/dport_access.h \
+ /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_dport_access.h \
+ /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
+ /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/periph_defs.h
 
 /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h:
 
@@ -479,4 +486,18 @@ request_handling.o: /home/jan/projects/demo_node/main/request_handling.c \
 /home/jan/esp/esp-mdf/components/mcommon/include/mdf_info_store.h:
 
 /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h:
+
+/home/jan/esp/esp-mdf/esp-idf/components/driver/include/driver/ledc.h:
+
+/home/jan/esp/esp-mdf/esp-idf/components/driver/include/driver/periph_ctrl.h:
+
+/home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/dport_reg.h:
+
+/home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/dport_access.h:
+
+/home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_dport_access.h:
+
+/home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/uart_reg.h:
+
+/home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/periph_defs.h:
 /home/jan/projects/demo_node/main/./request_handling.c:
