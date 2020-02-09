@@ -4,7 +4,7 @@ pcnt.o: /home/jan/esp/esp-mdf/esp-idf/components/driver/pcnt.c \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/features.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/_intsup.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_assert.h \
@@ -99,7 +99,7 @@ pcnt.o: /home/jan/esp/esp-mdf/esp-idf/components/driver/pcnt.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/_intsup.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/ets_sys.h:
 

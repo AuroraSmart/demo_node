@@ -23,7 +23,7 @@ bluedroid/btc/profile/esp/blufi/blufi_protocol.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/sched.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_target.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/stack/include/stack/bt_types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/stack/include/stack/dyn_mem.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_trace.h \
@@ -163,7 +163,7 @@ bluedroid/btc/profile/esp/blufi/blufi_protocol.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_target.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/stack/include/stack/bt_types.h:
 

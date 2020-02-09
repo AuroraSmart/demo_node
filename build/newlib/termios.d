@@ -1,5 +1,5 @@
 termios.o: /home/jan/esp/esp-mdf/esp-idf/components/newlib/termios.c \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/sys/termios.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -19,7 +19,7 @@ termios.o: /home/jan/esp/esp-mdf/esp-idf/components/newlib/termios.c \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/errno.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/reent.h
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/sys/termios.h:
 

@@ -33,7 +33,7 @@ mdf_mem.o: /home/jan/esp/esp-mdf/components/mcommon/mdf_mem.c \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/crc.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -229,7 +229,7 @@ mdf_mem.o: /home/jan/esp/esp-mdf/components/mcommon/mdf_mem.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h:
 

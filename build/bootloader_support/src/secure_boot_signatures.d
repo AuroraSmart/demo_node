@@ -1,6 +1,6 @@
 src/secure_boot_signatures.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/src/secure_boot_signatures.c \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -48,7 +48,7 @@ src/secure_boot_signatures.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/limits.h
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h:
 

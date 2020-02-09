@@ -17,7 +17,7 @@ partition.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/alloca.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/string.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h \
@@ -80,7 +80,7 @@ partition.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h:
 

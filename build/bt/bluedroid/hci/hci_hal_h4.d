@@ -22,7 +22,7 @@ bluedroid/hci/hci_hal_h4.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_trace.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/types.h \
@@ -155,7 +155,7 @@ bluedroid/hci/hci_hal_h4.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_trace.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdio.h:
 

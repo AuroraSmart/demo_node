@@ -3,7 +3,7 @@ asio/asio/src/asio.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/asio/asio/asio/include/asio/impl/src.hpp \
  /home/jan/esp/esp-mdf/esp-idf/components/asio/asio/asio/include/asio/detail/config.hpp \
  /home/jan/esp/esp-mdf/esp-idf/components/asio/port/include/esp_asio_config.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp \
  /home/jan/esp/esp-mdf/esp-idf/components/asio/asio/asio/include/asio/error.hpp \
  /home/jan/esp/esp-mdf/esp-idf/components/asio/asio/asio/include/asio/error_code.hpp \
@@ -327,7 +327,7 @@ asio/asio/src/asio.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/asio/port/include/esp_asio_config.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp:
 

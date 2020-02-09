@@ -27,7 +27,7 @@ event_default_handlers.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/sched.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_wifi.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -189,7 +189,7 @@ event_default_handlers.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h:
 

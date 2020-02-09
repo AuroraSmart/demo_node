@@ -1,7 +1,7 @@
 mbedtls/library/x509_crt.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/mbedtls/library/x509_crt.c \
  /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/include/esp_mem.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/ieeefp.h \
@@ -55,7 +55,7 @@ mbedtls/library/x509_crt.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/include/esp_mem.h:
 

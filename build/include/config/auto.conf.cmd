@@ -39,7 +39,7 @@ deps_config := \
 	/home/jan/esp/esp-mdf/esp-idf/components/wear_levelling/Kconfig \
 	/home/jan/esp/esp-mdf/esp-idf/components/bootloader/Kconfig.projbuild \
 	/home/jan/esp/esp-mdf/esp-idf/components/esptool_py/Kconfig.projbuild \
-	/home/jan/projects/node/main/Kconfig.projbuild \
+	/home/jan/projects/demo_node/main/Kconfig.projbuild \
 	/home/jan/esp/esp-mdf/esp-idf/components/partition_table/Kconfig.projbuild \
 	/home/jan/esp/esp-mdf/esp-idf/Kconfig
 

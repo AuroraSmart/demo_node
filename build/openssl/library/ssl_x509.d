@@ -10,7 +10,7 @@ library/ssl_x509.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/openssl/include/internal/ssl_methods.h \
  /home/jan/esp/esp-mdf/esp-idf/components/openssl/include/internal/ssl_dbg.h \
  /home/jan/esp/esp-mdf/esp-idf/components/openssl/include/platform/ssl_opt.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/openssl/include/platform/ssl_port.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/cdefs.h \
@@ -67,7 +67,7 @@ library/ssl_x509.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/openssl/include/platform/ssl_opt.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/openssl/include/platform/ssl_port.h:
 

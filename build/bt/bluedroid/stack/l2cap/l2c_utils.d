@@ -23,7 +23,7 @@ bluedroid/stack/l2cap/l2c_utils.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/jan/esp/esp-mdf/esp-idf/components/heap/include/multi_heap.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/device/include/device/controller.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_target.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/stack/include/stack/bt_types.h \
@@ -169,7 +169,7 @@ bluedroid/stack/l2cap/l2c_utils.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/heap/include/multi_heap.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/device/include/device/controller.h:
 

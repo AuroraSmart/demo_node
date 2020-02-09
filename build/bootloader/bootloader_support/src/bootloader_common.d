@@ -1,6 +1,6 @@
 src/bootloader_common.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/src/bootloader_common.c \
- /home/jan/projects/node/build/bootloader/../include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_err.h \
  /home/jan/esp/esp-mdf/esp-idf/components/log/include/esp_log.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/ets_sys.h \
@@ -31,7 +31,7 @@ src/bootloader_common.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include_bootloader/bootloader_sha.h
 
-/home/jan/projects/node/build/bootloader/../include/sdkconfig.h:
+/home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_err.h:
 

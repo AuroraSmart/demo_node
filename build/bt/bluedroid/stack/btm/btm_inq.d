@@ -26,7 +26,7 @@ bluedroid/stack/btm/btm_inq.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_timer.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_err.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/alloca.h \
@@ -173,7 +173,7 @@ bluedroid/stack/btm/btm_inq.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h:
 

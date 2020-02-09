@@ -1,5 +1,5 @@
 mconfig_blufi.o: /home/jan/esp/esp-mdf/components/mconfig/mconfig_blufi.c \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/include/esp_bt.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -192,7 +192,7 @@ mconfig_blufi.o: /home/jan/esp/esp-mdf/components/mconfig/mconfig_blufi.c \
  /home/jan/esp/esp-mdf/components/mconfig/include/mconfig_chain.h \
  /home/jan/esp/esp-mdf/components/mconfig/include/mconfig_security.h
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/include/esp_bt.h:
 

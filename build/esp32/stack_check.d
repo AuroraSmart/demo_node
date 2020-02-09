@@ -1,6 +1,6 @@
 stack_check.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/stack_check.c \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_system.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -59,7 +59,7 @@ stack_check.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/touch_channel.h
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_system.h:
 

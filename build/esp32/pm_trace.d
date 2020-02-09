@@ -1,6 +1,6 @@
 pm_trace.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/pm_trace.c \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/pm_trace.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/driver/include/driver/gpio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_err.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
@@ -44,7 +44,7 @@ pm_trace.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/pm_trace.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/pm_trace.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/driver/include/driver/gpio.h:
 

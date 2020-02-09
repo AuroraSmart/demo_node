@@ -17,7 +17,7 @@ hwcrypto/aes.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aes.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/include/esp_mem.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/stdlib.h \
@@ -129,7 +129,7 @@ hwcrypto/aes.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/include/esp_mem.h:
 

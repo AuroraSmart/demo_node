@@ -34,7 +34,7 @@ port/esp32/freertos/sys_arch.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/errno.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/errno.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/alloca.h \
@@ -189,7 +189,7 @@ port/esp32/freertos/sys_arch.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h:
 

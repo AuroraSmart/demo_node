@@ -17,7 +17,7 @@ esp-mqtt/lib/platform_esp32_idf.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -163,7 +163,7 @@ esp-mqtt/lib/platform_esp32_idf.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

@@ -10,7 +10,7 @@ spi_flash_rom_patch.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/gpio_pins.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/spi_flash.h \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/spi_reg.h \
- /home/jan/projects/node/build/bootloader/../include/sdkconfig.h
+ /home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/ets_sys.h:
 
@@ -32,5 +32,5 @@ spi_flash_rom_patch.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/spi_reg.h:
 
-/home/jan/projects/node/build/bootloader/../include/sdkconfig.h:
+/home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h:
 /home/jan/esp/esp-mdf/esp-idf/components/spi_flash/./spi_flash_rom_patch.c:

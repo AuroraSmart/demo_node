@@ -1,6 +1,6 @@
 mesh_mqtt_handle.o: \
- /home/jan/projects/node/components/mesh_mqtt_handle/mesh_mqtt_handle.c \
- /home/jan/projects/node/components/mesh_mqtt_handle/include/mesh_mqtt_handle.h \
+ /home/jan/projects/demo_node/components/mesh_mqtt_handle/mesh_mqtt_handle.c \
+ /home/jan/projects/demo_node/components/mesh_mqtt_handle/include/mesh_mqtt_handle.h \
  /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/_ansi.h \
@@ -35,7 +35,7 @@ mesh_mqtt_handle.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/crc.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -183,7 +183,7 @@ mesh_mqtt_handle.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_mesh_internal.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_wifi.h
 
-/home/jan/projects/node/components/mesh_mqtt_handle/include/mesh_mqtt_handle.h:
+/home/jan/projects/demo_node/components/mesh_mqtt_handle/include/mesh_mqtt_handle.h:
 
 /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h:
 
@@ -253,7 +253,7 @@ mesh_mqtt_handle.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h:
 
@@ -546,4 +546,4 @@ mesh_mqtt_handle.o: \
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_mesh_internal.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_wifi.h:
-/home/jan/projects/node/components/mesh_mqtt_handle/./mesh_mqtt_handle.c:
+/home/jan/projects/demo_node/components/mesh_mqtt_handle/./mesh_mqtt_handle.c:

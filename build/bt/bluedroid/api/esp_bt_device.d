@@ -28,7 +28,7 @@ bluedroid/api/esp_bt_device.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/sched.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/api/include/api/esp_bt_defs.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/api/include/api/esp_bt_main.h \
@@ -170,7 +170,7 @@ bluedroid/api/esp_bt_device.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h:
 

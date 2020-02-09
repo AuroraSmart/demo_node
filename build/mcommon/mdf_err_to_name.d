@@ -20,7 +20,7 @@ mdf_err_to_name.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/alloca.h \
@@ -212,7 +212,7 @@ mdf_err_to_name.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h:
 

@@ -19,7 +19,7 @@ esp-mqtt/lib/mqtt_msg.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/lib/include/mqtt_msg.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/lib/include/platform.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/lib/include/platform_esp32_idf.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -171,7 +171,7 @@ esp-mqtt/lib/mqtt_msg.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/lib/include/platform.h:
 

@@ -17,7 +17,7 @@ dport_access.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/lock.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_attr.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_err.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdio.h \
@@ -130,7 +130,7 @@ dport_access.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_attr.h:
 

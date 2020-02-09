@@ -22,7 +22,7 @@ bt.o: /home/jan/esp/esp-mdf/esp-idf/components/bt/bt.c \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/string.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/heap/include/esp_heap_caps.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -153,7 +153,7 @@ bt.o: /home/jan/esp/esp-mdf/esp-idf/components/bt/bt.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/heap/include/esp_heap_caps.h:
 

@@ -3,7 +3,7 @@ src/flash_encrypt.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_err.h \
  /home/jan/esp/esp-mdf/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- /home/jan/projects/node/build/bootloader/../include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_flash_data_types.h \
@@ -45,7 +45,7 @@ src/flash_encrypt.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-/home/jan/projects/node/build/bootloader/../include/sdkconfig.h:
+/home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

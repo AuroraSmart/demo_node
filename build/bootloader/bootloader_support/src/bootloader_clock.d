@@ -13,7 +13,7 @@ src/bootloader_clock.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/dport_access.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_dport_access.h \
- /home/jan/projects/node/build/bootloader/../include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/xtruntime.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -54,7 +54,7 @@ src/bootloader_clock.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_dport_access.h:
 
-/home/jan/projects/node/build/bootloader/../include/sdkconfig.h:
+/home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/uart_reg.h:
 

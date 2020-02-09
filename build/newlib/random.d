@@ -18,7 +18,7 @@ random.o: /home/jan/esp/esp-mdf/esp-idf/components/newlib/random.c \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/endian.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/param.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/_ansi.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/reent.h \
@@ -109,7 +109,7 @@ random.o: /home/jan/esp/esp-mdf/esp-idf/components/newlib/random.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h:
 

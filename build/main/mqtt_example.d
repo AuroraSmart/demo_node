@@ -1,4 +1,4 @@
-mqtt_example.o: /home/jan/projects/node/main/mqtt_example.c \
+mqtt_example.o: /home/jan/projects/demo_node/main/mqtt_example.c \
  /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/_ansi.h \
@@ -33,7 +33,7 @@ mqtt_example.o: /home/jan/projects/node/main/mqtt_example.c \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/crc.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -167,9 +167,10 @@ mqtt_example.o: /home/jan/projects/node/main/mqtt_example.c \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_mesh_internal.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_wifi_internal.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_mesh_internal.h \
- /home/jan/projects/node/components/mesh_mqtt_handle/include/mesh_mqtt_handle.h \
+ /home/jan/projects/demo_node/components/mesh_mqtt_handle/include/mesh_mqtt_handle.h \
  /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/include/mqtt_client.h \
- /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h
+ /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h \
+ /home/jan/projects/demo_node/main/request_handling.h
 
 /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h:
 
@@ -239,7 +240,7 @@ mqtt_example.o: /home/jan/projects/node/main/mqtt_example.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h:
 
@@ -507,9 +508,11 @@ mqtt_example.o: /home/jan/projects/node/main/mqtt_example.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_mesh_internal.h:
 
-/home/jan/projects/node/components/mesh_mqtt_handle/include/mesh_mqtt_handle.h:
+/home/jan/projects/demo_node/components/mesh_mqtt_handle/include/mesh_mqtt_handle.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/include/mqtt_client.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h:
-/home/jan/projects/node/main/./mqtt_example.c:
+
+/home/jan/projects/demo_node/main/request_handling.h:
+/home/jan/projects/demo_node/main/./mqtt_example.c:

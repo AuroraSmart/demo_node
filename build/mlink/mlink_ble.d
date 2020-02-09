@@ -1,5 +1,5 @@
 mlink_ble.o: /home/jan/esp/esp-mdf/components/mlink/mlink_ble.c \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/components/mlink/include/mlink_ble.h \
  /home/jan/esp/esp-mdf/components/mcommon/include/mdf_common.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdio.h \
@@ -168,7 +168,7 @@ mlink_ble.o: /home/jan/esp/esp-mdf/components/mlink/mlink_ble.c \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/api/include/api/esp_bt_defs.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/api/include/api/esp_bt_main.h
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/components/mlink/include/mlink_ble.h:
 

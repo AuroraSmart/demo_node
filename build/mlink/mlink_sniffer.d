@@ -15,7 +15,7 @@ mlink_sniffer.o: /home/jan/esp/esp-mdf/components/mlink/mlink_sniffer.c \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/lock.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -207,7 +207,7 @@ mlink_sniffer.o: /home/jan/esp/esp-mdf/components/mlink/mlink_sniffer.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

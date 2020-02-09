@@ -1,6 +1,6 @@
 spiram_psram.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/spiram_psram.c \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/string.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/_ansi.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/newlib.h \
@@ -79,7 +79,7 @@ spiram_psram.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include/bootloader_common.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_flash_data_types.h
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/string.h:
 

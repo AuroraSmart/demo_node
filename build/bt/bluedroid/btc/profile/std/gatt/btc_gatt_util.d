@@ -30,7 +30,7 @@ bluedroid/btc/profile/std/gatt/btc_gatt_util.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/bta/include/bta/bta_gatt_api.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/bta/include/bta/bta_api.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_target.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/stack/include/stack/dyn_mem.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_trace.h \
  /home/jan/esp/esp-mdf/esp-idf/components/log/include/esp_log.h \
@@ -170,7 +170,7 @@ bluedroid/btc/profile/std/gatt/btc_gatt_util.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_target.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/stack/include/stack/dyn_mem.h:
 

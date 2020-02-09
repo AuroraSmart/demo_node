@@ -24,7 +24,7 @@ task_wdt.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/task_wdt.c \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/alloca.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/string.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/hal.h \
@@ -149,7 +149,7 @@ task_wdt.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/task_wdt.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/string.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 

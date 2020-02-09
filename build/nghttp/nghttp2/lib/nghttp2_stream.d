@@ -41,7 +41,7 @@ nghttp2/lib/nghttp2_stream.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/nghttp/nghttp2/lib/nghttp2_map.h \
  /home/jan/esp/esp-mdf/esp-idf/components/nghttp/nghttp2/lib/nghttp2_pq.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h \
  /home/jan/esp/esp-mdf/esp-idf/components/nghttp/nghttp2/lib/nghttp2_session.h \
  /home/jan/esp/esp-mdf/esp-idf/components/nghttp/nghttp2/lib/nghttp2_callbacks.h \
@@ -130,7 +130,7 @@ nghttp2/lib/nghttp2_stream.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/assert.h:
 

@@ -21,7 +21,7 @@ bluedroid/bta/sdp/bta_sdp_act.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/alloca.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_trace.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/types.h \
@@ -154,7 +154,7 @@ bluedroid/bta/sdp/bta_sdp_act.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_trace.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdio.h:
 

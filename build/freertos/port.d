@@ -26,7 +26,7 @@ port.o: /home/jan/esp/esp-mdf/esp-idf/components/freertos/port.c \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/corebits.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/config/system.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
@@ -145,7 +145,7 @@ port.o: /home/jan/esp/esp-mdf/esp-idf/components/freertos/port.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

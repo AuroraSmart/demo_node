@@ -2,7 +2,7 @@ bluedroid/bta/hf_client/bta_hf_client_act.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/bta/hf_client/bta_hf_client_act.c \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/bta/include/bta/bta_api.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_target.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/stack/include/stack/bt_types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -120,7 +120,7 @@ bluedroid/bta/hf_client/bta_hf_client_act.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/common/include/common/bt_target.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/bt/bluedroid/stack/include/stack/bt_types.h:
 

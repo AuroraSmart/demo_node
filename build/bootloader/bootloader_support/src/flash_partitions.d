@@ -3,7 +3,7 @@ src/flash_partitions.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_err.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_flash_data_types.h \
- /home/jan/projects/node/build/bootloader/../include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/log/include/esp_log.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -21,7 +21,7 @@ src/flash_partitions.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_flash_data_types.h:
 
-/home/jan/projects/node/build/bootloader/../include/sdkconfig.h:
+/home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/log/include/esp_log.h:
 

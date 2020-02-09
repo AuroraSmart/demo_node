@@ -1,5 +1,5 @@
 intr_alloc.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/intr_alloc.c \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/features.h \
@@ -84,7 +84,7 @@ intr_alloc.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/intr_alloc.c \
  /home/jan/esp/esp-mdf/esp-idf/components/log/include/esp_log_internal.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_ipc.h
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h:
 

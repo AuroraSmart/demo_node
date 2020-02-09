@@ -3,7 +3,7 @@ src/bootloader_flash.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_err.h \
  /home/jan/esp/esp-mdf/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- /home/jan/projects/node/build/bootloader/../include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/log/include/esp_log.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -38,7 +38,7 @@ src/bootloader_flash.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-/home/jan/projects/node/build/bootloader/../include/sdkconfig.h:
+/home/jan/projects/demo_node/build/bootloader/../include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/log/include/esp_log.h:
 

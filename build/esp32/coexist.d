@@ -22,7 +22,7 @@ coexist.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/coexist.c \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/sched.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/stdio.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/alloca.h \
@@ -76,7 +76,7 @@ coexist.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/coexist.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h:
 

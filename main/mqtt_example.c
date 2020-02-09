@@ -15,6 +15,8 @@
 #include "mdf_common.h"
 #include "mwifi.h"
 #include "mesh_mqtt_handle.h"
+#include "cJSON.h"
+#include "request_handling.h"
 
 
 static const char *TAG = "mqtt_examples";
@@ -40,6 +42,8 @@ static void node_read_task(void *arg)
         ret = mwifi_read(src_addr, &data_type, data, &size, portMAX_DELAY);
         MDF_ERROR_CONTINUE(ret != MDF_OK, "<%s> mwifi_read", mdf_err_to_name(ret));
         MDF_LOGD("Node receive: " MACSTR ", size: %d, data: %s", MAC2STR(src_addr), size, data);
+
+        handle_request(data);
     }
 
     MDF_LOGW("Node read task is exit");

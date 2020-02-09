@@ -21,7 +21,7 @@ port/esp_mem.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/alloca.h \
  /home/jan/esp/esp-mdf/esp-idf/components/heap/include/multi_heap.h \
- /home/jan/projects/node/build/include/sdkconfig.h
+ /home/jan/projects/demo_node/build/include/sdkconfig.h
 
 /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_attr.h:
 
@@ -65,5 +65,5 @@ port/esp_mem.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/heap/include/multi_heap.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 /home/jan/esp/esp-mdf/esp-idf/components/mbedtls/port/esp_mem.c:

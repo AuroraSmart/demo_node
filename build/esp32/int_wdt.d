@@ -1,5 +1,5 @@
 int_wdt.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/int_wdt.c \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/features.h \
@@ -90,7 +90,7 @@ int_wdt.o: /home/jan/esp/esp-mdf/esp-idf/components/esp32/int_wdt.c \
  /home/jan/esp/esp-mdf/esp-idf/components/soc/esp32/include/soc/periph_defs.h \
  /home/jan/esp/esp-mdf/esp-idf/components/esp32/include/esp_int_wdt.h
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdint.h:
 

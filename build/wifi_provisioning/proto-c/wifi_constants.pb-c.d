@@ -3,7 +3,7 @@ proto-c/wifi_constants.pb-c.o: \
  /home/jan/esp/esp-mdf/esp-idf/components/wifi_provisioning/proto-c/wifi_constants.pb-c.h \
  /home/jan/esp/esp-mdf/esp-idf/components/protobuf-c/protobuf-c/protobuf-c/protobuf-c.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/ieeefp.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/_ansi.h \
@@ -31,7 +31,7 @@ proto-c/wifi_constants.pb-c.o: \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/stdlib.h:
 

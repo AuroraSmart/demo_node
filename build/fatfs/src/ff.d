@@ -10,7 +10,7 @@ src/ff.o: /home/jan/esp/esp-mdf/esp-idf/components/fatfs/src/ff.c \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/syslimits.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/endian.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/param.h \
- /home/jan/projects/node/build/include/sdkconfig.h \
+ /home/jan/projects/demo_node/build/include/sdkconfig.h \
  /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/sys/reent.h \
  /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/_ansi.h \
@@ -112,7 +112,7 @@ src/ff.o: /home/jan/esp/esp-mdf/esp-idf/components/fatfs/src/ff.c \
 
 /home/jan/esp/esp-mdf/esp-idf/components/newlib/include/machine/param.h:
 
-/home/jan/projects/node/build/include/sdkconfig.h:
+/home/jan/projects/demo_node/build/include/sdkconfig.h:
 
 /home/jan/esp/esp-mdf/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 
